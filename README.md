@@ -43,7 +43,7 @@ Enumerate the main results of this project in a list and describe them.
 - *pandas*
 - *HuggingFace*
 - *DistilBERT*
-- *Skitit-Learn*
+- *Scikit-Learn*
 - *Spotipy*
 - *S3 Buckets*
 
