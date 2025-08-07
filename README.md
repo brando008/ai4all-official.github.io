@@ -26,11 +26,12 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
-
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+*NER Fine-Tuning: Trained a DistilBERT model to extract artists, songs, emotions, and genres from prompts.*
+*Prompt Embedding: Used MiniLM to convert user input into vectors.*
+*Vector Similarity Search: Matched prompts to songs using cosine similarity.*
+*Emotion Vector Mapping: Created average vectors for emotions to improve mood-based recommendations.*
+*Dataset Curation: Labeled and balanced song data from Spotify to reduce genre bias.*
+*Evaluation & Visualization: Used PCA and graphs to analyze vector quality and genre distribution.*
 
 
 ## Data Sources <!--- do not change this line -->
