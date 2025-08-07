@@ -35,8 +35,7 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/devdope/900k-spotify/data))*
+*Kaggle Datasets: [https://www.kaggle.com/datasets/devdope/900k-spotify/data]*
 
 ## Technologies Used <!--- do not change this line -->
 
